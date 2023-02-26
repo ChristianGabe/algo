@@ -1,0 +1,37 @@
+ LastNameFirstName Algorithm
+VAR 
+ Last name, first name: string
+ Beginning
+ Write ("Name: ")
+ Read (nominal)
+ Write ("firstname:")
+ Read (first name)
+ Write(‘your full name is: surname,firstname)
+END
+
+ Algorithm nbr_of_letrres
+VAR
+ Phrase: character string;
+ Number: integer;
+ 
+ Beginning
+ Write (" enter a phrase of your choice: ")
+ Read (sentence) ;
+ Nbr ----- length (sentence); 
+ Write ("your sentence contains"nbr"charates")
+END
+
+VAR
+ i,nbr:integer
+ 
+ Beginning
+ Number----0
+ Pour-----0
+ If (i)="a" or (i)="b" or (i)="c" or (i)="d" or (i)="e"
+ So n° ---- n°+1
+
+  repeater
+ Write (" enter a sentence of your choice: " );
+ Read (Sentence);
+ Write ("your sentence" nbrvowels(sentence), "vowel contains")
+END
